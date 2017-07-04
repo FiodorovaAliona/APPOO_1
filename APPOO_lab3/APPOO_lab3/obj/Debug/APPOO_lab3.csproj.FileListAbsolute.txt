@@ -1,0 +1,5 @@
+D:\projectsvisualstudio\APPOO_lab3\APPOO_lab3\bin\Debug\APPOO_lab3.exe
+D:\projectsvisualstudio\APPOO_lab3\APPOO_lab3\bin\Debug\APPOO_lab3.pdb
+D:\projectsvisualstudio\APPOO_lab3\APPOO_lab3\obj\Debug\APPOO_lab3.csprojResolveAssemblyReference.cache
+D:\projectsvisualstudio\APPOO_lab3\APPOO_lab3\obj\Debug\APPOO_lab3.exe
+D:\projectsvisualstudio\APPOO_lab3\APPOO_lab3\obj\Debug\APPOO_lab3.pdb
